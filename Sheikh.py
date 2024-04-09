@@ -1,1 +1,1 @@
-import randm
+import KHORSED
